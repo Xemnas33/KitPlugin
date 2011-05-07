@@ -1,0 +1,50 @@
+KitPlugin by FloydATC
+
+1.2:
+ - Updated to support iConomy 5.0
+ - Added Changelog.txt
+
+v1.15:
+ - Added optional iConomy support and price tags
+ 
+v1.14:
+ - Minor changes to the permission checking and logging
+
+v1.13: 
+ - Added an informational log message when a player with 'kit.proxy' permission bypasses a cooldown
+ 
+v1.12: 
+ - Added support for giving kits to other players
+ 
+v1.11: 
+ - Added support for item data (yes, wool colors!) and durability. Read the thread.
+ 
+v1.10:
+ - Removed the "stupidly long constructor" as per Bukkit team recommendation
+
+v1.09:
+ - Added "/kit reload" to reload the config without a server restart
+
+v1.08:
+ - Improved error-checking, simplified install, use onCommand, switched namespace.
+ 
+v1.07:
+ - Time until cooldown is shown in a friendly (but inaccurate) way
+
+v1.06 
+ - Changed cooldown code to use SECONDS, please update kits.txt!
+ 
+v1.04 
+ - Rebuild
+ 
+v1.03 
+ - Rebuild, implemented cooldown timers
+
+v1.02 
+ - Implemented Permissions 
+ 
+v1.01 
+ - Rebuild (fixed onPlayerCommand issue)
+ 
+v1.00 
+ - Initial release
