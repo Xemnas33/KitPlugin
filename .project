@@ -14,4 +14,16 @@
 	<natures>
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>Releases/KitPlugin</name>
+			<type>2</type>
+			<location>C:/Users/Matt/Documents/KitPlugin</location>
+		</link>
+		<link>
+			<name>Releases/KitPlugin.jar</name>
+			<type>1</type>
+			<location>C:/Users/Matt/Desktop/KitPlugin.jar</location>
+		</link>
+	</linkedResources>
 </projectDescription>

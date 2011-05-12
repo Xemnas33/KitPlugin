@@ -372,8 +372,7 @@ public class KitPlugin extends JavaPlugin {
       } catch (Exception e) {
         e.printStackTrace();
       }
-      }
-
+      
       
     String line = null;
     Integer lineno = 0;
